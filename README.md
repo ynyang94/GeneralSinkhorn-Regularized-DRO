@@ -29,7 +29,7 @@ If you find this work useful, please consider citing the code and the paper:
 
 ```bibtex
 
-@software{mysinkhorndro,
+@software{generalSinkhorn,
   author       = {Yufeng Yang and Yi Zhou and Zhaosong Lu},
   title        = {Sinkhorn-Regularized-DRO-v1.0},
   year         = 2025,
