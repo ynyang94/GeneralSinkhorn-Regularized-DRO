@@ -25,8 +25,19 @@ To reproduce the experimental results, please follow the steps below:
 2. **Modify the checkpoint paths in the scripts to point to valid local directories**
 
 
-If you find this work useful, please consider citing it:
+If you find this work useful, please consider citing the code:
 
+```bibtex
+
+@software{mysinkhorndro,
+  author       = {Yufeng Yang and Yi Zhou and Zhaosong Lu},
+  title        = {Sinkhorn-Regularized-DRO-v1.0},
+  year         = 2025,
+  doi          = {10.5281/zenodo.15723973},
+  url          = {https://doi.org/10.5281/zenodo.15723973},
+  note         = {GitHub repository.}
+}
+and the paper
 ```bibtex
 @misc{yang2025nestedstochasticgradientdescent,
       title={Nested Stochastic Gradient Descent for (Generalized) Sinkhorn Distance-Regularized Distributionally Robust Optimization}, 
