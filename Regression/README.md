@@ -18,9 +18,11 @@ This repository contains the experimental code for regression tasks. It includes
 ├── Regression.py\
 └── Experimental code for linear regression on synthetic data
 
+├── DataProcessorLogistic.py
+├── CIFAR_feature_extract.py
 ├── logistic.py\
 ├── logistic_test.py\
-└── Training and evaluation code for logistic regression
+└── Data Collection, training and evaluation code for logistic regression
 
 
 ## 🧪 Usage Notes
