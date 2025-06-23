@@ -12,11 +12,11 @@ This repository contains the experimental code for regression tasks. It includes
 • Generalized Sinkhorn Distance-regularized DRO\
 • Constrained Sinkhorn DRO\
 • f-divergence regularized DRO\
-• Empirical Risk Minimization (ERM)\
+• Empirical Risk Minimization (ERM)
 
 ├── DataGenerator.py\
 ├── Regression.py\
-└── Experimental code for linear regression on synthetic data\
+└── Experimental code for linear regression on synthetic data
 
 ├── logistic.py\
 ├── logistic_test.py\
