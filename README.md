@@ -25,7 +25,7 @@ To reproduce the experimental results, please follow the steps below:
 2. **Modify the checkpoint paths in the scripts to point to valid local directories**
 
 
-If you find this work useful, please consider citing the code:
+If you find this work useful, please consider citing the code and the paper:
 
 ```bibtex
 
@@ -35,9 +35,9 @@ If you find this work useful, please consider citing the code:
   year         = 2025,
   doi          = {10.5281/zenodo.15723973},
   url          = {https://doi.org/10.5281/zenodo.15723973},
-  note         = {GitHub repository.}
+  note         = {GitHub repository}
 }
-and the paper
+
 ```bibtex
 @misc{yang2025nestedstochasticgradientdescent,
       title={Nested Stochastic Gradient Descent for (Generalized) Sinkhorn Distance-Regularized Distributionally Robust Optimization}, 
