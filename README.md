@@ -38,7 +38,7 @@ If you find this work useful, please consider citing the code and the paper:
   note         = {GitHub repository}
 }
 
-```bibtex
+
 @misc{yang2025nestedstochasticgradientdescent,
       title={Nested Stochastic Gradient Descent for (Generalized) Sinkhorn Distance-Regularized Distributionally Robust Optimization}, 
       author={Yufeng Yang and Yi Zhou and Zhaosong Lu},
