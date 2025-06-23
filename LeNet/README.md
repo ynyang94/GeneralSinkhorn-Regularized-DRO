@@ -14,8 +14,8 @@ This repository contains the experimental code for LeNet tasks. It includes impl
 • Constrained Sinkhorn DRO\
 • f-divergence regularized DRO\
 • Empirical Risk Minimization (ERM)
-├── train_pipeline.py
-├── test_and_attack.py
+├── train_pipeline.py\
+├── test_and_attack.py\
 ├── LeNet_train.py\
 ├── LeNet_test.py\
 └── contains:\
