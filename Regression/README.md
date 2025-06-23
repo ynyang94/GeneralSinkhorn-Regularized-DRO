@@ -4,22 +4,22 @@ This repository contains the experimental code for regression tasks. It includes
 
 ## 📁 Project Structure
 
-├── SinkhornDRO.py
-├── sinkhorn_base.py
-├── fDRO.py
-├── LinearERM.py
-└── Python classes for:
-• Generalized Sinkhorn Distance-regularized DRO
-• Constrained Sinkhorn DRO
-• f-divergence regularized DRO
-• Empirical Risk Minimization (ERM)
+├── SinkhornDRO.py\
+├── sinkhorn_base.py\
+├── fDRO.py\
+├── LinearERM.py\
+└── Python classes for:\
+• Generalized Sinkhorn Distance-regularized DRO\
+• Constrained Sinkhorn DRO\
+• f-divergence regularized DRO\
+• Empirical Risk Minimization (ERM)\
 
-├── DataGenerator.py
-├── Regression.py
-└── Experimental code for linear regression on synthetic data
+├── DataGenerator.py\
+├── Regression.py\
+└── Experimental code for linear regression on synthetic data\
 
-├── logistic.py
-├── logistic_test.py
+├── logistic.py\
+├── logistic_test.py\
 └── Training and evaluation code for logistic regression
 
 
